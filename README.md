@@ -1,2 +1,2 @@
 # Image Manipulator
-A Minesweeper-style game with a graphical interface in C++.
+A program that manipulates images at the pixel level in C++.
